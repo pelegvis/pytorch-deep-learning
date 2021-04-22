@@ -59,6 +59,5 @@ def main():
     plot_fit(X, Y, w, b)
 
 
-
 if __name__ == '__main__':
     main()
